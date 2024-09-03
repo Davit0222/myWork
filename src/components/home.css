@@ -1,0 +1,166 @@
+/* Container for the full screen height and background */
+.h-screen {
+    background-color: #475569; /* bg-slate-600 */
+    padding-top: 2.5rem; /* pt-10 */
+    margin-bottom: 30%;
+  }
+  
+  /* Slider customization */
+  .slider {
+    width: 80%; /* Adjust width as needed */
+    margin: 0 auto;
+  }
+  
+  /* Individual slide */
+  .slider .slick-slide {
+    padding: 10px;
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Image styling */
+  .w-40 {
+    width: 10rem; /* Tailwind class for w-40 */
+    height: auto;
+    object-fit: contain;
+    border-radius: 8px;
+  }
+  
+  /* Title container */
+  .p-6 {
+    padding: 1.5rem; /* Tailwind class for p-6 */
+    background-color: #1d4ed8; /* bg-blue-600 */
+    border-radius: 8px;
+    margin-top: 0.5rem; /* Adjust spacing */
+    text-align: center;
+  }
+  
+  /* Title text */
+  .font-semibold {
+    font-weight: 600; /* Tailwind class for font-semibold */
+    color: #ffffff; /* text-white */
+  }
+  
+  /* Adjust slider dots */
+  .slick-dots li button:before {
+    font-size: 12px;
+    color: #ffffff;
+  }
+  
+  /* Active dot styling */
+  .slick-dots li.slick-active button:before {
+    color: #1d4ed8; /* Change active dot color */
+  }
+  
+  /* Optional: Hide arrows if not needed */
+  .slick-prev,
+  .slick-next {
+    display: none !important;
+  }
+  
+  /* Show arrows when needed */
+  .slick-prev,
+  .slick-next {
+    display: block !important;
+    color: #ffffff;
+  }
+  .mission-container{
+    min-height: 22rem;
+    color: white;
+    display: flex;
+    gap:20px;
+    margin-top: 40px;
+    margin-bottom: 30%;
+    margin-left: 0.9367rem;
+    margin-right: 0.9367rem;
+    position: relative;
+    width: auto;
+    background-color: #ffffff;
+    height: 400px;
+    justify-content: center;  
+  }
+  .om1{
+    background-color:#00a5d9;
+    min-height: 22rem;
+    padding: 10% 8% 8% 8%;
+    color: white;
+    width: 33.33333%;
+    text-align: center;
+
+  }
+  .om2{
+    background-color:#41a298;
+    min-height: 22rem;
+    padding: 10% 8% 8% 8%;
+    color: white;
+    width: 33.33333%;
+    text-align: center;
+
+  }
+  .om3{
+    background-color:#0068a5;
+    min-height: 22rem;
+    padding: 10% 8% 8% 8%;
+    color: white;
+    width: 33.33333%;
+    text-align: center;
+  }
+  .om1 > p{
+    line-height: 1.25em;
+    margin-top: 10px;
+  }
+  .om2 > p{
+    line-height: 1.25em;
+    margin-top: 10px;
+  }
+  .om3 > p{
+    line-height: 1.25em;
+    margin-top: 10px;
+  }
+
+.img-mission{
+    height: 70px;
+    width: 70px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    margin-top: -30px;
+}
+.follow{
+    display: block;
+    background-color: #ddd;
+    width: 100%;
+    height: 300px;
+    line-height: 30px;
+    text-align: center;
+    padding: 30px;
+    color:#666
+
+}
+.nav-list-follow{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    
+}
+.nav-list-follow  a{
+    text-decoration: none;
+    color:#666
+
+}
+.follow-logo{
+    display: flex;
+    justify-content:center;
+    gap: 10px;
+}
+
+.follow-logo :hover{
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+.follow-img{
+    width: 40px;
+    height: 40px;
+}

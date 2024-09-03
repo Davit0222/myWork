@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+ 
+}
+.wrapper{
+    min-height: 100vh;           
+    display: flex;
+    flex-direction: column;
+  }
+
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("./images/christian-christianity-religion-background_1421-12.avif");
+  background-size: contain; /* Ensures the image covers the entire background */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;          /* Ensures the background image covers the entire page */
+  background-position: center;     /* Centers the background image */
+  height: 100vh;                   /* Makes sure the background image takes up at least 100% of the viewport height */
+  margin: 0;                       /* Removes default margin */
+  padding: 0; 
+  
+}
+
+
+
+
