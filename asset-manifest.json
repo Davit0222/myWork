@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/myWork/static/css/main.bcd0330a.css",
+    "main.js": "/myWork/static/js/main.d6e113c4.js",
+    "static/media/4.jpg": "/myWork/static/media/4.dbbfc1b6eb4df05d5868.jpg",
+    "static/media/6.jpg": "/myWork/static/media/6.9495dd505e0171fe744e.jpg",
+    "static/media/5.jpg": "/myWork/static/media/5.cc15513f1fe4b8ba03d9.jpg",
+    "static/media/3.jpg": "/myWork/static/media/3.c0789b2109b82921ecde.jpg",
+    "static/media/l5.png": "/myWork/static/media/l5.e719d8b29f452a16302d.png",
+    "static/media/l6.png": "/myWork/static/media/l6.49e67d43221b6bb1aa86.png",
+    "static/media/l8.png": "/myWork/static/media/l8.11207024f9471c68590c.png",
+    "static/media/l4.png": "/myWork/static/media/l4.ef6e00bea07b5309b134.png",
+    "static/media/christian-christianity-religion-background_1421-12.avif": "/myWork/static/media/christian-christianity-religion-background_1421-12.3d543ee4d4bba515c9d3.avif",
+    "static/media/slick.svg": "/myWork/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/myWork/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/myWork/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/myWork/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/myWork/index.html",
+    "static/media/getFetch.cjs": "/myWork/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.bcd0330a.css.map": "/myWork/static/css/main.bcd0330a.css.map",
+    "main.d6e113c4.js.map": "/myWork/static/js/main.d6e113c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcd0330a.css",
+    "static/js/main.d6e113c4.js"
+  ]
+}
